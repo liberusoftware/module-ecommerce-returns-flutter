@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-returns-flutter",
+  "capabilityKey": "planned:ecommerce:returns",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_returns_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/returns.md",
+  "presentationPlan": "projects/ecommerce/flutter/returns.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
